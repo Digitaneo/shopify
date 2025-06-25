@@ -1,0 +1,1 @@
+window.location.href = "http://store.digitaneo.com/pages/warning-alaeddin";
